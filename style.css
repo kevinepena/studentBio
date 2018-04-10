@@ -1,4 +1,5 @@
 .container {
+    width: 1024px;
     margin: 0 auto;
 }
 
@@ -22,20 +23,20 @@
 }
 
 body {
-    background-color: #efeee7;
+    background-color: #0B486B;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #333;
+    color: #DBE6EC;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #333;
+    background-color: #E8F3F8;
     height: 40px;
 }
 
 h1 {
-    color: #eee;
+    color: #0B486B;
     font-size: 28px;
     margin: auto;
     text-align: center;
@@ -45,3 +46,10 @@ h2 {
     font-size: 24px;
 }
 
+a {
+    color: #DBE6EC
+}
+
+a:visited {
+    color: #DBE6EC;
+}
