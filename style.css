@@ -1,0 +1,47 @@
+.container {
+    margin: 0 auto;
+}
+
+#mainBio {
+    float: left;
+    width: 50%;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+
+#contactInfo {
+    float: left;
+    width: 20%;
+    padding-top: 5px;
+}
+
+#bioImage {
+    float: left;
+    width: 200px;
+    margin-left: 20px;
+}
+
+body {
+    background-color: #efeee7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    height: 40px;
+}
+
+h1 {
+    color: #eee;
+    font-size: 28px;
+    margin: auto;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+}
+
